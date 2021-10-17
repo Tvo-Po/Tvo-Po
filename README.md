@@ -10,8 +10,8 @@
 
 <table>
   <tr>
-    <td>
-      <h3 valign="middle">Tech Stack:</h3>
+    <td valign="middle">
+      <h3>Tech Stack:</h3>
     </td>  
     <td>
     <img width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/python.svg">
