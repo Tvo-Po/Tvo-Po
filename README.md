@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/2HEAHnj8FOmL6" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokemon-pikachu-flower-2HEAHnj8FOmL6">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/2HEAHnj8FOmL6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pokemon-pikachu-flower-2HEAHnj8FOmL6">via GIPHY</a></p>
 
 ### Hi there 👋
 ![Cisco](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)
