@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------------------------
 
-<table align="center" border="0">
+<table align="center" border>
   <tr>
     <td valign="middle">
       <strong>Tech Stack:</strong>
