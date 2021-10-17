@@ -17,6 +17,4 @@
   <img align="right" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/html5.svg">
   <img align="right" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/css3.svg">
   <img align="right" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/visualstudiocode.svg">
-
-  
-![Cisco](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)
+  <a href="https://www.credly.com/badges/bad70ed2-4c59-4ad4-ae77-b8001830e0a4/public_url"><img align="right" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/cisco_certificate.png"></a>
