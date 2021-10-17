@@ -8,12 +8,12 @@
 
 --------------------------------------------------------------------------------------
 
-<table>
+<table boreder="0">
   <tr>
     <td valign="middle">
       <strong>Tech Stack:</strong>
     </td>  
-    <td>
+    <td valign="middle">
     <img width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/python.svg">
     <img width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/django.svg">
     <img width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/postgresql.svg">
