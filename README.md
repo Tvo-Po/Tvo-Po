@@ -9,8 +9,8 @@
 --------------------------------------------------------------------------------------
 
 <table align="center" cellspacing="0" cellpadding="0">
-  <tr border="0">
-    <td valign="middle" border="0">
+  <tr>
+    <td valign="middle">
       <strong>Tech Stack:</strong>
     </td>  
     <td valign="middle">
