@@ -9,7 +9,7 @@
 --------------------------------------------------------------------------------------
 
 <table align="center" cellspacing="0" cellpadding="0">
-  <tr>
+  <tr border="0">
     <td valign="middle" border="0">
       <strong>Tech Stack:</strong>
     </td>  
