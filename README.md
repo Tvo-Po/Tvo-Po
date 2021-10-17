@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td valign="middle">
-      ###Tech Stack###
+      <strong>Tech Stack:</strong>
     </td>  
     <td>
     <img width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/python.svg">
