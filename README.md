@@ -32,7 +32,7 @@
       <strong>Contact me:</strong>
     </td>  
     <td valign="middle">
-    <img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/telegram.png">
+    <a href="https://telegram.me/swallowland"><img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/telegram.svg"></a>
     </td>
   </tr>  
 </table>
