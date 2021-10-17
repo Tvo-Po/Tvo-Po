@@ -21,7 +21,18 @@
     <img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/html5.svg">
     <img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/css3.svg">
     <img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/visualstudiocode.svg">
-    <img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/cisco_certificate.png">
+    <a href="https://www.credly.com/badges/bad70ed2-4c59-4ad4-ae77-b8001830e0a4/public_url"><img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/cisco_certificate.png"></a>
+    </td>
+  </tr>  
+</table>
+
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+      <strong>Contact me:</strong>
+    </td>  
+    <td valign="middle">
+    <img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/telegram.png">
     </td>
   </tr>  
 </table>
