@@ -10,12 +10,12 @@
 
 <h3>Tech Stack:</h3>
 
-<img align="left" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/python.svg">
-<img align="left" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/django.svg">
-<img align="left" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/postgresql.svg">
-<img align="center" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/gnubash.svg">
-<img align="center" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/html5.svg">
-<img align="center" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/css3.svg">
-<img align="center" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/visualstudiocode.svg">
+<img align="middle" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/python.svg">
+<img align="middle" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/django.svg">
+<img align="middle" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/postgresql.svg">
+<img align="middle" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/gnubash.svg">
+<img align="middle" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/html5.svg">
+<img align="middle" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/css3.svg">
+<img align="middle" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/visualstudiocode.svg">
   
 ![Cisco](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)
