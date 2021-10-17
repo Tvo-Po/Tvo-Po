@@ -10,7 +10,7 @@
 
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="middle">
+    <td valign="middle" border="0">
       <strong>Tech Stack:</strong>
     </td>  
     <td valign="middle">
