@@ -2,7 +2,7 @@
 
 <h4 align="center">
   <samp>
-    Hi there :v: welcome to my Github! I'm a beginner Backend Developer (also like to try myself in other technologies) :nerd_face:. mastering DRF.
+    Hi there :v: welcome to my Github! I'm a beginner Backend Developer<br>(also like to try myself in other technologies) :nerd_face:. mastering DRF.
   </samp>
 </h4>
   
