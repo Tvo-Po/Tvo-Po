@@ -11,7 +11,7 @@
 <h3>Tech Stack:</h3>
 
 <img src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/python.svg" >
-<img style="fill:#E94B8F" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/django.svg">
+<img src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/django.svg">
 <img src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/postgresql.svg">
 <img src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/gnubash.svg">
 <img src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/html5.svg">
