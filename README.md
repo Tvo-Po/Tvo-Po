@@ -10,9 +10,9 @@
 
 <h3>Tech Stack:</h3>
 
-![python](https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/python.svg)
-![django](https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/django.svg)
-<img align="center" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/postgresql.svg">
+<img align="left" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/python.svg">
+<img align="left" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/django.svg">
+<img align="left" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/postgresql.svg">
 <img align="center" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/gnubash.svg">
 <img align="center" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/html5.svg">
 <img align="center" width="36" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/css3.svg">
