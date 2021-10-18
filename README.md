@@ -37,7 +37,7 @@
   </tr>  
 </table>
 
-<details>
+<details align="center">
   
 <summary>My GitHub Streak</summary>
   
