@@ -2,7 +2,7 @@
 
 <h4 align="center">
   <samp>
-    Python Backend Developer. Worked on different kinds if web-services (Django, DRF, FastAPI, web3py).
+    Python Backend Developer. Working on different kinds of web-services (Django, DRF, FastAPI, web3py).
   </samp>
 </h4>
 
